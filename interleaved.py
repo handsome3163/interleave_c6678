@@ -44,7 +44,7 @@ print "by interleave deci  = ",S
 print "by interleave hex   = ",hex(S)
 
 if S == (A*B)%m:
-    print "* succeeded!:) *"
+    print "\n* succeeded!:) *"
 else:
     print "\nsomething is wrong:("
 
