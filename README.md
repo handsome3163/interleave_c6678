@@ -13,4 +13,5 @@ here is a interleaved modular multiplication (IMM) on TI DSP TMS320C6678
 
 
 by the way, mult.asm is for single core and is still not perfect
+
 if you cannot set up CCSv5, you should read "how2setup_CCS.txt"
